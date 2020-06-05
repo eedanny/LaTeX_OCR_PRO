@@ -1,5 +1,7 @@
 # LaTeX_OCR_PRO
 
+![] (https://zenodo.org/record/56198#.XtoSjjozZPb)
+
 数学公式识别，增强：中文公式、手写公式
 
 ![](https://raw.githubusercontent.com/LinXueyuanStdio/LaTeX_OCR/master/art/6.png)
